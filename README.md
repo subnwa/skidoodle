@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/skidoodle/skidoodle/1c995072ad0da3ab39a46609cd13486456b75c6d/name.svg" alt="albert" />
 </h1>
 
-## Hey! 👋
-I'm Albert.
+## Hello there! 👋
 
 ## Contact
 - [aalbert.tech](https://aalbert.tech)
