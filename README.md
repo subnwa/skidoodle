@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/skidoodle/skidoodle/1c995072ad0da3ab39a46609cd13486456b75c6d/name.svg" alt="albert" />
+  <img src="https://raw.githubusercontent.com/skidoodle/skidoodle/63a1ab664ae02907e319aa65805cad36f2e5cca6/gradient.svg" alt="albert" />
 </h1>
 
 ## Contact
