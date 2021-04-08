@@ -4,5 +4,5 @@
 
 ## Contact
 - [aalbert.tech](https://aalbert.tech)
-- [albertadam_](https://instagram.com/albertadam_) on Instagram
+- [albertadam_](https://instagram.com/albertadam_){:target="_blank"} on Instagram
 - [albert#8838](./) on Discord
